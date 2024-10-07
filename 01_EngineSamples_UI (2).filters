@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="UI_Button.cpp">
+      <Filter>Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="DestDirMoveRot.cpp">
+      <Filter>Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="DestDirBullet.cpp">
+      <Filter>Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="DestDirMove.cpp">
+      <Filter>Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="HeroMoveJump.cpp">
+      <Filter>Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="GuidedMissile.cpp">
+      <Filter>Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="PlaneRot.cpp">
+      <Filter>Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="MapScroll.cpp">
+      <Filter>Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="Sample.cpp">
+      <Filter>Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="Number3D.cpp">
+      <Filter>Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="FPSTest.cpp">
+      <Filter>Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="CameraClickMove.cpp">
+      <Filter>Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="CameraShake.cpp">
+      <Filter>Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="Physic_0.cpp">
+      <Filter>Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="Mask.cpp">
+      <Filter>Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="Mask_EffectImg.cpp">
+      <Filter>Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="OffsetExample.cpp">
+      <Filter>Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="UI_Popup.cpp">
+      <Filter>Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="ColorChange.cpp">
+      <Filter>Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="CollisionExample.cpp">
+      <Filter>Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="ChacterSelectCam.cpp">
+      <Filter>Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="SelectBoxs.cpp">
+      <Filter>Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="Physic_1.cpp">
+      <Filter>Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="UI_Popup_1.cpp">
+      <Filter>Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="Sound_Example_1.cpp">
+      <Filter>Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="GaugeBar.cpp">
+      <Filter>Scene</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="UI_Button.h">
+      <Filter>Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="DestDirMoveRot.h">
+      <Filter>Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="DestDirBullet.h">
+      <Filter>Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="DestDirMove.h">
+      <Filter>Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="HeroMoveJump.h">
+      <Filter>Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="GuidedMissile.h">
+      <Filter>Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="PlaneRot.h">
+      <Filter>Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="MapScroll.h">
+      <Filter>Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="Sample.h">
+      <Filter>Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="Number3D.h">
+      <Filter>Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="FPSTest.h">
+      <Filter>Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="CameraClickMove.h">
+      <Filter>Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="CameraShake.h">
+      <Filter>Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="Physic_0.h">
+      <Filter>Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="Mask.h">
+      <Filter>Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="Mask_EffectImg.h">
+      <Filter>Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="OffsetExample.h">
+      <Filter>Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="UI_Popup.h">
+      <Filter>Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="ColorChange.h">
+      <Filter>Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="CollisionExample.h">
+      <Filter>Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="ChacterSelectCam.h">
+      <Filter>Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="SelectBoxs.h">
+      <Filter>Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="Physic_1.h">
+      <Filter>Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="UI_Popup_1.h">
+      <Filter>Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="Sound_Example_1.h">
+      <Filter>Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="GaugeBar.h">
+      <Filter>Scene</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Scene">
+      <UniqueIdentifier>{9bcce706-876c-4e3e-a7f6-78bc8ecbcaac}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
